@@ -2,7 +2,10 @@
 <p>Konkuk Univ. CSE (2022.02. ~)</p>
 <h2>Skills</h2>
 <p>language</p>
-<img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=f5f5f5">
-<img alt="Static Badge" src="https://img.shields.io/badge/java-F80000?logo=oracle&logoColor=f5f5f5">
-<img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=f5f5f5">
-<img alt="Static Badge" src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=f5f5f5">
+<div style="display:flex">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=f5f5f5">
+  <img alt="Static Badge" src="https://img.shields.io/badge/java-F80000?logo=oracle&logoColor=f5f5f5">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=f5f5f5">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=f5f5f5">
+</div>
+
