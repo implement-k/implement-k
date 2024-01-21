@@ -31,7 +31,7 @@
 </div>
 
 <h2>Project</h2>
-<div style="display:flex">
+<div style="display:flex;flex-direction:column">
   <a href="https://play.google.com/store/apps/details?id=com.cmon.pseudoLocationTracker&hl=en-KR">사이비 위치 추적기</a>
   <a href="https://implementing.tistory.com/53">공군 병사 통합 홈페이지</a>
 </div>
