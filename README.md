@@ -30,6 +30,10 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/android-34A853?logo=android&logoColor=f5f5f5">
 </div>
 
+<h2>Project</h2>
+<a href="https://play.google.com/store/apps/details?id=com.cmon.pseudoLocationTracker&hl=en-KR">사이비 위치 추적기</a>
+<a href="https://implementing.tistory.com/53">공군 병사 통합 홈페이지</a>
+
 <h2>Blog</h2>
   <a href="https://implementing.tistory.com/">
     <img alt="Static Badge" src="https://img.shields.io/badge/tistory-000000?logo=tistory&logoColor=f5f5f5">
