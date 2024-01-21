@@ -1,4 +1,5 @@
 <h1>implement</h1>
+[![Solved.ac rnjsrn98](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsrn98)](https://solved.ac/rnjsrn98)
 <p><b>Konkuk Univ. CSE</b> (2022.02. ~)</p>
 <h2>Stack</h2>
 <p>language</p>
@@ -27,5 +28,3 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/aws-beanstalk-FF9900?logo=amazonaws&logoColor=f5f5f5">
     <img alt="Static Badge" src="https://img.shields.io/badge/android-34A853?logo=android&logoColor=f5f5f5">
 </div>
-
-[![Solved.ac rnjsrn98](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsrn98)](https://solved.ac/rnjsrn98)
