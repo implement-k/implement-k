@@ -29,3 +29,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/aws-beanstalk-FF9900?logo=amazonaws&logoColor=f5f5f5">
     <img alt="Static Badge" src="https://img.shields.io/badge/android-34A853?logo=android&logoColor=f5f5f5">
 </div>
+
+<h2>Blog</h2>
+  <img alt="Static Badge" src="https://img.shields.io/badge/tistory-000000?logo=tistory&logoColor=f5f5f5">
