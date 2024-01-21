@@ -14,8 +14,7 @@
 <div style="display:flex">
     <img alt="Static Badge" src="https://img.shields.io/badge/FLASK-000000?logo=flask&logoColor=f5f5f5">
 </div>
-
-<p>database</p>
+<b>database</b>
 <div style="display:flex">
     <img alt="Static Badge" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=f5f5f5">
     <img alt="Static Badge" src="https://img.shields.io/badge/firebase-FFCA28?logo=firebase&logoColor=f5f5f5">
