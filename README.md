@@ -2,7 +2,7 @@
 [Solved.ac rnjsrn98](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsrn98)](https://solved.ac/rnjsrn98)
 <p><b>Konkuk Univ. CSE</b> (2022.02. ~)</p>
 <h2>Stack</h2>
-<p>language</p>
+language
 <div style="display:flex">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=f5f5f5">
   <img alt="Static Badge" src="https://img.shields.io/badge/java-F80000?logo=oracle&logoColor=f5f5f5">
