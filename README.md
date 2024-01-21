@@ -31,4 +31,6 @@
 </div>
 
 <h2>Blog</h2>
-  <img alt="Static Badge" src="https://img.shields.io/badge/tistory-000000?logo=tistory&logoColor=f5f5f5">(https://implementing.tistory.com/)
+  <a src="https://implementing.tistory.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/tistory-000000?logo=tistory&logoColor=f5f5f5">
+  </a>
