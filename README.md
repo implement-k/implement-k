@@ -1,5 +1,7 @@
 <h1>implement</h1>
+
 [![Solved.ac rnjsrn98](http://mazassumnida.wtf/api/generate_badge?boj=rnjsrn98)](https://solved.ac/rnjsrn98)
+
 <p><b>Konkuk Univ. CSE</b> (2022.02. ~)</p>
 <h2>Stack</h2>
 <b>language</b>
