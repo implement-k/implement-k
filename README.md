@@ -1,5 +1,5 @@
 <h1>implement</h1>
-<p>__Konkuk Univ. CSE__ (2022.02. ~)</p>
+<p><b>Konkuk Univ. CSE</b> (2022.02. ~)</p>
 <h2>Stack</h2>
 <p>language</p>
 <div style="display:flex">
@@ -28,4 +28,4 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/android-34A853?logo=android&logoColor=f5f5f5">
 </div>
 
-[![Solved.ac rnjsrn98](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac rnjsrn98](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsrn98)](https://solved.ac/rnjsrn98)
