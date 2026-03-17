@@ -41,14 +41,10 @@
   <p>keyword: python, selenium</p>
 </div>
 <div>
-  <h3>2. <a href="https://github.com/implement-k/Konkuk_Lecture_Schedule_Loader">Konkuk Univ. lecture schedule crawler</a></h3>
-  <p>keyword: python, selenium</p>
-</div>
-<div>
   <h3>3. <a href="https://implementing.tistory.com/53">공군 병사 통합 홈페이지</a></h3>
   <p>keyword: python, flask, js, css, html</p>
 </div>
----
+<hr/>
 <h2>Blog</h2>
   <a href="https://implementing.tistory.com/">
     <img alt="Static Badge" src="https://img.shields.io/badge/tistory-000000?logo=tistory&logoColor=f5f5f5">
