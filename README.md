@@ -36,14 +36,25 @@
   <p>keyword: Computer Vision, OOD Generalization, Robustness, Resnet-18, IBN-Net</p>
   <p>26.02</p>
 </div>
+  <h3>2. <a href="https://implementing.tistory.com/82">지능형 AAC 시스템</a></h3>
+  <p>keyword: NLP, Flask, nextjs, communication</p>
+  <p>26.02</p>
+</div>
 <div>
-  <h3>2. <a href="https://github.com/implement-k/Konkuk_Lecture_Schedule_Loader">Konkuk Univ. lecture schedule crawler</a></h3>
+  <h3>3. kulfood <a herf="https://play.google.com/store/apps/details?id=com.knh.kufood&pcampaignid=web_share&pli=1">안드로이드</a> / <a href="https://apps.apple.com/kr/app/kulfood/id6749234416
+kulfood">아이폰</a></h3>
+  <p>keyword: python, flask, js, css, html</p>
+</div>
+<div>
+  <h3>4. <a href="https://github.com/implement-k/Konkuk_Lecture_Schedule_Loader">Konkuk Univ. lecture schedule crawler</a></h3>
   <p>keyword: python, selenium</p>
 </div>
 <div>
-  <h3>3. <a href="https://implementing.tistory.com/53">공군 병사 통합 홈페이지</a></h3>
+  <h3>5. <a href="https://implementing.tistory.com/53">공군 병사 통합 홈페이지</a></h3>
   <p>keyword: python, flask, js, css, html</p>
 </div>
+
+
 <hr/>
 <h2>Blog</h2>
   <a href="https://implementing.tistory.com/">
