@@ -31,6 +31,10 @@
 </div>
 
 <h2>Project</h2>
+<div>
+  <a href="https://github.com/implement-k/OOD-generalization">Single-Source OOD(Out-of-Distribution) Generalization on PACS Dataset</a>
+  <p>keyword: Computer Vision, OOD Generalization, Robustness, Resnet-18, IBN-Net</p>
+</div>
 <a href="https://play.google.com/store/apps/details?id=com.cmon.pseudoLocationTracker&hl=en-KR">사이비 위치 추적기</a><br>
 <a href="https://implementing.tistory.com/53">공군 병사 통합 홈페이지</a>
 
