@@ -37,14 +37,18 @@
   <p>26.02</p>
 </div>
 <div>
-  <h3>1. <a>지능형 AAC 시스템</a></h3>
-  <p>keyword: NLP, Flask, Next.js, communication</p>
-  <p>역할: 실험 설계 및 외부 기관 협력</p>
-  <p>25.09~10</p>
+  <h3>2. <a href="https://github.com/implement-k/Konkuk_Lecture_Schedule_Loader">Konkuk Univ. lecture schedule crawler</a></h3>
+  <p>keyword: python, selenium</p>
 </div>
-<a href="https://play.google.com/store/apps/details?id=com.cmon.pseudoLocationTracker&hl=en-KR">사이비 위치 추적기</a><br>
-<a href="https://implementing.tistory.com/53">공군 병사 통합 홈페이지</a>
-
+<div>
+  <h3>2. <a href="https://github.com/implement-k/Konkuk_Lecture_Schedule_Loader">Konkuk Univ. lecture schedule crawler</a></h3>
+  <p>keyword: python, selenium</p>
+</div>
+<div>
+  <h3>3. <a href="https://implementing.tistory.com/53">공군 병사 통합 홈페이지</a></h3>
+  <p>keyword: python, flask, js, css, html</p>
+</div>
+---
 <h2>Blog</h2>
   <a href="https://implementing.tistory.com/">
     <img alt="Static Badge" src="https://img.shields.io/badge/tistory-000000?logo=tistory&logoColor=f5f5f5">
