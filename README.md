@@ -41,7 +41,8 @@
   <p>26.02</p>
 </div>
 <div>
-  <h3>3. kulfood</h3><p><a herf="https://play.google.com/store/apps/details?id=com.knh.kufood">안드로이드</a> / <a href="https://apps.apple.com/kr/app/kulfood/id6749234416
+  <h3>3. kulfood</h3>
+  <p><a herf="https://play.google.com/store/apps/details?id=com.knh.kufood">안드로이드</a> / <a href="https://apps.apple.com/kr/app/kulfood/id6749234416
 kulfood">아이폰</a></p>
   <p>keyword: python, flask, js, css, html</p>
 </div>
